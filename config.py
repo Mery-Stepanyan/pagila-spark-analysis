@@ -6,4 +6,4 @@ DB_PROPERTIES = {
     "user": "postgres",
     "password": "YOUR_PASSWORD", # Fill in your password
     "driver": "org.postgresql.Driver"
-}
+}# Final project version for review
